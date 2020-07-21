@@ -30,5 +30,6 @@ public class Face {
 
     static {
         System.loadLibrary("Face");
+//        couldn't find "libFace.so"
     }
 }
